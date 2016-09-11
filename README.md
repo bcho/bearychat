@@ -9,6 +9,13 @@ A simple package for interacting with [bearychat][bc]'s API.
 [Doc](http://godoc.org/github.com/bcho/bearychat)
 
 
+## DISCONTINUED
+
+This package has been abandoned, please use [bearychat.go][bearychat.go] instead.
+
+[bearychat.go]: https://github.com/bcho/bearychat.go
+
+
 ## LICENSE
 
 MIT
