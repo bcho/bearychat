@@ -1,4 +1,4 @@
-# bearychat-py
+# bearychat
 
 A simple package for interacting with [bearychat][bc]'s API.
 
